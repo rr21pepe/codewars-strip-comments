@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1625841597336" clover="3.2.0">
+  <project timestamp="1625841597336" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="18" coveredmethods="18" elements="44" coveredelements="44" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1">
+      <file name="strip-comments.js" path="/Users/pepe/code/katas/codewars/codewars-strip-comments/src/strip-comments.js">
+        <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="18" coveredmethods="18"/>
+        <line num="1" count="20" type="stmt"/>
+        <line num="3" count="16" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="21" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="24" count="21" type="stmt"/>
+        <line num="25" count="63" type="stmt"/>
+        <line num="28" count="16" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="42" count="16" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
